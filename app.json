@@ -1,5 +1,5 @@
 {
-   "stack": "heroku-22"
+   "stack": "heroku-22",
     "name": "binance-trade-bot",
     "description": "Binance Trader",
     "logo": "https://cdn.freebiesupply.com/logos/large/2x/binance-coin-logo-png-transparent.png",
